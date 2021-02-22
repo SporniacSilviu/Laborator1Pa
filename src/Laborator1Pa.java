@@ -1,3 +1,4 @@
+// Autor: SPORNIAC SILVIU DANUT 2 A3
 public class Laborator1Pa{
     static int sumaCifrelor(int n) {
         int rezultat = n;
